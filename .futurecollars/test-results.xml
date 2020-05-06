@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="2" failures="0" time="2.729">
+  <testsuite name="Zadanie nr. 2" errors="0" failures="0" skipped="0" timestamp="2020-03-09T18:14:57" time="2.211" tests="2">
+    <testcase classname="Zadanie nr. 2" name="Dodano div o szerokości 33%" time="0.01">
+    </testcase>
+    <testcase classname="Zadanie nr. 2" name="Ustawiono wysokość diva na równą szerokości (%)" time="0.003">
+    </testcase>
+  </testsuite>
+</testsuites>
