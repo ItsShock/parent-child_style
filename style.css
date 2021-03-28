@@ -1,0 +1,11 @@
+.parent{
+    height: 700px;
+    width: 700px;
+}
+
+.child{
+    height: 33%;
+    width: 33%;
+    border-radius: 50%;
+    background-color: black;
+}
